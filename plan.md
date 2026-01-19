@@ -3,10 +3,10 @@
 ## Core Subjects
 
 ### 1. Mathematics
-- Algebra
-- Geometry
-- Calculus
-- Statistics
+- Calculus 2 
+- 
+-
+- 
 
 ### 2. Physics
 - 
