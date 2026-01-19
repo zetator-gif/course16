@@ -11,4 +11,6 @@ $$
 
 • first-order analytical methods - focus on first derivative of a function<br>
 • **foil** - solid object, when placed on water or similar lift iscapable of generating much more lift than drag
-**superfluid** - no lift
+**superfluid** - completety frictionless, no lift
+? inertial forces
+? Kutta condition
