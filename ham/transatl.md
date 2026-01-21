@@ -1,3 +1,10 @@
 https://private-user-images.githubusercontent.com/250961284/534658974-105ef296-1c77-4196-bd59-2c2e3a39b40f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njg4MTE3MjMsIm5iZiI6MTc2ODgxMTQyMywicGF0aCI6Ii8yNTA5NjEyODQvNTM0NjU4OTc0LTEwNWVmMjk2LTFjNzctNDE5Ni1iZDU5LTJjMmUzYTM5YjQwZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExOVQwODMwMjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMzJiYWM3ZGM1M2VkZDI5OWFhZWRmY2ZjNjFiNzllYjdmYWJmN2I5NmVlZjQzMWE1ZDU2OTk3YjAxNzhiMGE2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.H_EBTrXRiIi7o_X_3PkwdBxo3SnLOealwNXFN8ahxm0
 <BR>
 1000. ray can be formed by any waves(optical, acoustic, microwave, X-ray, matter wave)
+<br>
+Allan H. Frey - **MAE**-Microwave Auditory Effect((Frey Effect)<br>
+ Kenneth Foster on MEDUSA - because of human biophysics, the device "would kill you well before you were bothered by the noise"<br>
+ 
+
+
+
