@@ -6,5 +6,3 @@ https://www.youtube.com/watch?v=YQ7aLHCTeeE
 https://nescacademy.nasa.gov/search/
 
 
-up quark, down quark - elementary particles
-reproduction of primordial events
