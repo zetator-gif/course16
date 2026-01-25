@@ -102,7 +102,7 @@ $$
       
 
 
-https://stackoverflow.com/questions/67482409/how-to-rotate-my-3d-plots-by-mouse-in-pycharm-professional
+problem 1004. https://stackoverflow.com/questions/67482409/how-to-rotate-my-3d-plots-by-mouse-in-pycharm-professional
 
 
 
