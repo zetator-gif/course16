@@ -1,4 +1,4 @@
-https://www.scribd.com/document/421615734/Air-and-Missile-Defense-Systems-Engineering
+prof 1. https://microelectronics.tudelft.nl/People/bio.php?  <br> id=6https://www.scribd.com/document/421615734/Air-and-Missile-Defense-Systems-Engineering
 LoRa - 
 low cost, low power, unlicensed band(ISM), spread-spectrum modulation                          
 range 15km in rural areas (832km) record    
