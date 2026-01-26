@@ -20,3 +20,4 @@ github render using **HTML-style entities**:  <br>
 $$
 [T(°R)] = [θ(°F)] + [459.4(°R)]
 $$
+<img width="492" height="220" alt="{C3D28CAD-DA9C-4DD8-AA63-7D6DB64BD1D9}" src="https://github.com/user-attachments/assets/e614b023-c0dc-4a35-86fb-72a27a927f63" />
