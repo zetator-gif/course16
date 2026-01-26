@@ -13,5 +13,10 @@ github render using **HTML-style entities**:  <br>
 • **Hex code**: `&#x03C1`  → &#961;  <br>
 ## Greek letter `γ`(gamma)
 • **Decimal code**: `&#947;` → &#947;  <br>
+## Greek letter `θ`(theta)
+• **Decimal code**: `&#952;` → &#952;  <br>
 
-
+## Units explicitly shown for every variable in equation for `T` (absolute temperature)
+$$
+[T(°R)] = [θ(°F)] + [459.4(°R)]
+$$
