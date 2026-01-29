@@ -1,4 +1,6 @@
-M1:[Carlos Polanco - Differential and Integral Calculus Theory and Cases](https://books.google.nl/books?id=xDy_zQEACAAJ&printsec=copyright&redir)  <br>
+M1:[Carlos Polanco - Differential and Integral Calculus Theory and Cases]
+M2 - https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/CalculusVolume1-OP.pdf
+(https://books.google.nl/books?id=xDy_zQEACAAJ&printsec=copyright&redir)  <br>
 <br>
 s1. https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html  <br>
 s2. https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf  <br>
