@@ -206,8 +206,36 @@ This line creates x-values closer and closer to 1 from both sides, without ever 
 x near 1  ──▶ [ function ] ──▶ output near 2
 
 ```
+## limit diverges at x = 0 (does not exist)
 
+```python
+import numpy as np
+import matplotlib.pyplot as plt
 
+# x values approaching 0 from both sides
+x_left = np.linspace(-1, -0.001, 200)
+x_right = np.linspace(0.001, 1, 200)
+
+y_left = np.ones_like(x_left) * 1
+y_right = np.ones_like(x_right) * 3
+
+# Plot
+plt.figure(figsize=(6, 4))
+plt.plot(x_left, y_left, 'b', linewidth=3, label="x < 0  →  f(x) = 1")
+plt.plot(x_right, y_right, 'r', linewidth=3, label="x > 0  →  f(x) = 3")
+
+plt.axvline(0, color="black", linestyle=":")
+plt.scatter([0, 0], [1, 3], facecolors='none', edgecolors='black', s=100)
+
+plt.xlabel("x")
+plt.ylabel("f(x)")
+plt.title("Limit does NOT exist at x = 0")
+plt.legend()
+plt.grid(True)
+plt.show()
+```
+
+<img width="669" height="399" alt="image" src="https://github.com/user-attachments/assets/f04c0a0f-96b6-402d-9316-90704169dd30" />
 
 
 
