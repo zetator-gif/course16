@@ -169,10 +169,43 @@ $$
 \sqrt[n]{a}
 $$
 
+## output clustering -> limit
 
+```python
+import numpy as np
+import matplotlib.pyplot as plt
 
+# x values getting closer and closer to 1
+x = 1 + np.concatenate([
+    -10.0**(-np.arange(1, 8)),
+     10.0**(-np.arange(1, 8))
+])
 
+# function (undefined at x=1, but we never use x=1)
+y = (x**2 - 1) / (x - 1)
 
+# plot ONLY outputs
+plt.figure(figsize=(4, 6))
+plt.scatter(np.zeros_like(y), y, s=80)
+plt.axhline(2, color="red", linestyle="--", label="L = 2")
+
+plt.xlim(-0.5, 0.5)
+plt.xticks([])
+plt.ylabel("f(x)")
+plt.title("Outputs clustering → this IS the limit")
+plt.legend()
+plt.grid(True)
+plt.show()
+```
+
+<img width="499" height="511" alt="image" src="https://github.com/user-attachments/assets/ecd6a147-ee28-455b-9659-eb924b0b0df8" />
+
+This line creates x-values closer and closer to 1 from both sides, without ever using x = 1.
+
+```css
+x near 1  ──▶ [ function ] ──▶ output near 2
+
+```
 
 
 
